@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author JN
- *
- */
-package stanford;
